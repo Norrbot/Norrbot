@@ -21,16 +21,25 @@
 
 ---
 
-## 📫 Elérsz itt is:
-- 📸 **Instagram**: [_.la.puta_ama._](https://www.instagram.com/_.la.puta_ama._)
-- 📘 **Facebook**: [Davee0131](https://www.facebook.com/Davee0131)
+## 📫 Elérhetsz itt is
+
+- 📘 [Facebook](https://www.facebook.com/Davee0131)
+- 📸 [Instagram](https://www.instagram.com/_.la.puta_ama._/)
+- 📧 **Egyetemi e-mail**: `david20040131@mailbox.unideb.hu`
+- 📧 **Másik egyetemi e-mail**: `davidegyetemi@gmail.com`
+- 📧 **Privát e-mail**: `szalanicsdavid2004@gmail.com`
+
+Ne aggódj, **mindig visszajelzek**, csak néha tanulnom is kell 😅
 
 ---
 
-## 😄 Fun fact:
-> 🏎️ **F1 fan vagyok, úgyhogy vigyázz!**  
-> Ha egy kanyarban eltűnök, valószínűleg csak DRS-t nyomtam. 😎
+## 🏁 Extra infó rólam
+
+> F1 fan vagyok,  
+> **úgyhogy vigyázz!** 😄  
+> *(Kedvenc pályám: **Monaco**, mert a stílus örök.)*
 
 ---
 
-Köszönöm, hogy benéztél a profilomra! Ha tetszik valamelyik projektem vagy csak kérdésed van, **nyugodtan írj!** 😊
+Köszönöm, hogy elolvastad! Nézz szét a projektjeim között, és ha bármi kérdésed van, nyugodtan írj!  
+Addig is: **kódolj okosan és emberséggel!** 🤝
