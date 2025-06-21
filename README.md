@@ -34,8 +34,9 @@
 
 - 📘 [Facebook](https://www.facebook.com/Davee0131)
 - 📸 [Instagram](https://www.instagram.com/_.la.puta_ama._/)
-- 📧 **Egyetemi e-mail**: `david20040131@mailbox.unideb.hu`
-- 📧 **Másik egyetemi e-mail**: `davidegyetemi@gmail.com`
+---
+- 📧 **Hivatalos egyetemi e-mail**: `david20040131@mailbox.unideb.hu`
+- 📧 **Privát egyetemi e-mail**: `davidegyetemi@gmail.com`
 - 📧 **Privát e-mail**: `szalanicsdavid2004@gmail.com`
 
 Ne aggódj, **mindig visszajelzek**, csak néha tanulnom is kell 😅
