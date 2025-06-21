@@ -50,7 +50,7 @@ Ne aggódj, **mindig visszajelzek**, csak néha tanulnom is kell 😅
 > "I am not designed to come second or third. I am designed to win."
 > — Ayrton Senna
 > 
->![F1 Fan](https://img.shields.io/badge/F1_Fan-black?style=for-the-badge&logo=formula1&logoColor=FF2800&color=lightgrey)
+>![F1](https://img.shields.io/badge/F1-FF2800?style=for-the-badge&color=lightgrey&labelColor=lightgrey) ![Fan](https://img.shields.io/badge/Fan-black?style=for-the-badge&color=lightgrey&labelColor=lightgrey)
 
 ---
 
