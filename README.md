@@ -10,18 +10,17 @@
 ---
 
 ## 🧠 Érdeklődési köreim:
-- ![Web Development](https://img.shields.io/badge/Web%20Development-frontend%20%26%20backend-blueviolet?style=for-the-badge&logo=react&logoColor=white)
+- ![Web Development](https://img.shields.io/badge/Web%20Development-frontend%20%26%20backend-blueviolet?style=for-the-badge&logo=react&logoColor=white) 
 
-- ![Arduino](https://img.shields.io/badge/Arduino-embedded%20systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/Arduino-embedded%20systems-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 
-- ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
-- ![C](https://img.shields.io/badge/C-language-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![C](https://img.shields.io/badge/C-language-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
-- ![Java](https://img.shields.io/badge/Java-language-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-language-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 
 - ![Databases](https://img.shields.io/badge/Databases-SQL-0052CC?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ---
 
