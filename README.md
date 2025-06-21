@@ -10,17 +10,17 @@
 ---
 
 ## 🧠 Érdeklődési köreim:
-![Web](https://img.shields.io/badge/Web-2C3E50?style=for-the-badge&logo=html5&logoColor=E34F26)  
+- ![Web](https://img.shields.io/badge/Web-2C3E50?style=for-the-badge&logo=html5&logoColor=E34F26)  
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)  
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -50,7 +50,7 @@ Ne aggódj, **mindig visszajelzek**, csak néha tanulnom is kell 😅
 > "I am not designed to come second or third. I am designed to win."
 > — Ayrton Senna
 > 
->![F1 fan](https://img.shields.io/badge/F1_Fan-🏎️%20Vigyázz!-red?style=for-the-badge&logo=formula1&logoColor=white)  
+>![F1 fan](https://img.shields.io/badge/F1-Fan-FF2800?style=for-the-badge&logo=formula1&logoColor=white) 
 
 ---
 
