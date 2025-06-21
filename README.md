@@ -4,6 +4,7 @@
 🎓 Mérnökinformatika szakos hallgató vagyok a Debreceni Egyetemen.  
 🛠️ Legjobban akkor érzem magam, ha gépelhetek valamit: legyen az **Python** script, **C** program, vagy épp **Arduino** vezérlés.  
 🌐 Webfejlesztéssel is foglalkozom, és szeretem, amikor az ötletek valósággá válnak – kódsorok formájában.
+
 ![Megbízható](https://img.shields.io/badge/Megbízható-100%25%20Bizalom-brightgreen?style=for-the-badge&logo=verified&logoColor=white)
 
 ---
