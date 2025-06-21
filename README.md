@@ -10,11 +10,18 @@
 ---
 
 ## 🧠 Érdeklődési köreim:
-- Webfejlesztés (frontend & backend)
-- Arduino / beágyazott rendszerek
-- Python (elsősorban)
-- C és Java ismeretek
-- Adatbázisok & SQL
+- ![Web Development](https://img.shields.io/badge/Web%20Development-frontend%20%26%20backend-blueviolet?style=for-the-badge&logo=react&logoColor=white)
+
+- ![Arduino](https://img.shields.io/badge/Arduino-embedded%20systems-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+- ![Python](https://img.shields.io/badge/Python-primary-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- ![C](https://img.shields.io/badge/C-language-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+- ![Java](https://img.shields.io/badge/Java-language-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+
+- ![Databases](https://img.shields.io/badge/Databases-SQL-0052CC?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
@@ -39,10 +46,10 @@ Ne aggódj, **mindig visszajelzek**, csak néha tanulnom is kell 😅
 
 > F1 fan vagyok, **úgyhogy vigyázz!** 😄  
 > *(Kedvenc pályám: Monaco, mert az igazi művészet a kanyarokban dől el.)*
-
+> 
 > "I am not designed to come second or third. I am designed to win."
 > — Ayrton Senna
-
+> 
 >![F1 fan](https://img.shields.io/badge/F1_Fan-🏎️%20Vigyázz!-red?style=for-the-badge&logo=formula1&logoColor=white)  
 
 ---
